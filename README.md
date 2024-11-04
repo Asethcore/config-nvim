@@ -1,5 +1,5 @@
 *originally from : https://github.com/cpow/neovim-for-newbs*
-##n The changes i made
+## The changes i made
 * replaced catppuccin with gruvbox
 * installed tailwind-tools
 * and still adding
