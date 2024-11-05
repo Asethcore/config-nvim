@@ -6,7 +6,7 @@
 * JSON Language Server (jsonls),
 * nvim-notify,
 * Cmd Line,
-* Markdown Preview
+* Markdown Preview,
 * file browse
   
 ## Screenshots
