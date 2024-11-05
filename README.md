@@ -7,7 +7,7 @@
 * nvim-notify,
 * Cmd Line,
 * Markdown Preview,
-* file browse
+* file browse &
 * tabs(barbar)
   
 ## Screenshots
