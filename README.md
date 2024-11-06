@@ -27,10 +27,6 @@ cp -r ~/config-nvim/.config/nvim/* ~/.config/nvim/
 cd ~/.config/nvim
 nvim
 ```
-after moving or copying the config reload the nvim config using :
-```
-:source %
-```
 
 ## Screenshots
 ![s9](https://github.com/user-attachments/assets/34fb8d70-8c2d-4bc6-ace0-b5f935d2bf51)
