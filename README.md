@@ -21,7 +21,7 @@ create the nvim directory if it doesnt exist
 ```bash
 mkdir -p ~/.config/nvim
 ```
-then copy or move the contents of the ```.config/nvim``` to ```~/.config/nvim```
+then copy or move the contents of the ```~/config-nvim/.config/nvim``` to ```~/.config/nvim```
 ```bash
 cp -r ~/config-nvim/.config/nvim/* ~/.config/nvim/
 cd ~/.config/nvim
