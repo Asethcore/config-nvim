@@ -23,11 +23,11 @@ mkdir -p ~/.config/nvim
 ```
 then copy or move the contents of the ```.config/nvim``` to ```~/.config/nvim```
 ```bash
-cp -r ~/nvim2/.config/nvim ~/.config/nvim
+cp -r ~/nvim2/.config/nvim/* ~/.config/nvim/
 cd ~/.config/nvim
 nvim init.lua
 ### or
-mv ~/nvim2/.config/nvim ~/.config/nvim
+mv ~/nvim2/.config/nvim/* ~/.config/nvim/
 cd ~/.config/nvim
 nvim init.lua
 ```
