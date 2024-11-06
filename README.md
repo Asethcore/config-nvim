@@ -27,7 +27,8 @@ cp -r ~/config-nvim/.config/nvim/* ~/.config/nvim/
 cd ~/.config/nvim
 nvim init.lua
 ### or
-mv ~/config-nvim/.config/nvim/* ~/.config/nvim/
+rm -rf ~/.config/nvim
+mv ~/config-nvim/.config/nvim/* ~/.config/
 cd ~/.config/nvim
 nvim init.lua
 ```
