@@ -9,7 +9,25 @@
 * Markdown Preview,
 * file browse &
 * tabs(barbar)
-  
+
+## Installation
+
+Clone this repository, using the following command:
+
+```bash
+git clone https://github.com/Acorshep/nvim2.git
+```
+create the nvim directory if it doesnt exist
+```bash
+mkdir -p ~/.config/nvim
+```
+then copy or move the contents of the ```.config/nvim``` to ```~/.config/nvim```
+```bash
+cp -r ~/nvim2/.config/nvim ~/.config/nvim
+### or
+mv ~/nvim2/.config/nvim ~/.config/nvim
+```
+
 ## Screenshots
 ![s9](https://github.com/user-attachments/assets/34fb8d70-8c2d-4bc6-ace0-b5f935d2bf51)
 ![s12](https://github.com/user-attachments/assets/09446fad-f7c4-4a7c-b99c-70bd8d418cfb)
