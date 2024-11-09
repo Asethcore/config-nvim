@@ -7,6 +7,7 @@
 * nvim-notify,
 * Cmd Line,
 * Markdown Preview,
+* fuzzy finder,
 * file browse &
 * tabs(barbar)
 
