@@ -36,3 +36,4 @@ nvim
 ![s10](https://github.com/user-attachments/assets/c5271123-1dec-45d5-b66f-393162529161)
 ![s11](https://github.com/user-attachments/assets/42609be3-ef4d-4c40-a5be-4ea1f821e2ab)
 ![s13](https://github.com/user-attachments/assets/d4c0f40c-cba1-49b6-9f76-be8d350b8d01)
+![s64](https://github.com/user-attachments/assets/5172d87d-25ac-4288-97ee-54a52546fdbd)
