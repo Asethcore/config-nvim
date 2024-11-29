@@ -10,6 +10,7 @@
 * fuzzy finder,
 * file browse &
 * tabs(barbar)
+* Colors(NvChad-colorizer)
 
 ## Installation
 
