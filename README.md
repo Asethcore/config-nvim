@@ -1,5 +1,6 @@
 # Overview
 *This repository is a customized version of an existing project*, enhanced with additional features to improve functionality and user experience. The primary modifications include integrations like
+* NvChadUI,
 * Which Key, 
 * Mini Animate, 
 * Code Window, 
