@@ -17,7 +17,7 @@
 Clone this repository, using the following command:
 
 ```bash
-git clone https://github.com/Acorshep/config-nvim.git ~/.config/nvim
+git clone https://github.com/Acorshep/config-nvim.git
 ```
 create the nvim directory if it doesnt exist
 ```bash
