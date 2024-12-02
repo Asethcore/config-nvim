@@ -8,8 +8,7 @@
 * nvim-notify,
 * Cmd Line,
 * fuzzy finder,
-* file browse,
-* tabs(barbar) &
+* file browse &
 * Colors(NvChad-colorizer)
 
 ## Installation
