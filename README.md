@@ -30,9 +30,9 @@ nvim
 ```
 
 ## Screenshots
-![s70](https://github.com/user-attachments/assets/6bb68d9c-eabe-4193-8d86-74a5484a4fcb)
-![s12](https://github.com/user-attachments/assets/09446fad-f7c4-4a7c-b99c-70bd8d418cfb)
-![s10](https://github.com/user-attachments/assets/c5271123-1dec-45d5-b66f-393162529161)
-![s11](https://github.com/user-attachments/assets/42609be3-ef4d-4c40-a5be-4ea1f821e2ab)
-![s13](https://github.com/user-attachments/assets/d4c0f40c-cba1-49b6-9f76-be8d350b8d01)
-![s76](https://github.com/user-attachments/assets/17540736-0508-4360-9d96-87430eb2a223)
+![s2](https://github.com/user-attachments/assets/fd6eb088-7e83-416a-941c-02e26db6d650)
+![s3](https://github.com/user-attachments/assets/bc501c20-296f-42ef-ad6d-77990f0769c5)
+![s4](https://github.com/user-attachments/assets/34dd23e1-81d0-4c7c-a121-b3fdd7a9ac5c)
+![s5](https://github.com/user-attachments/assets/ef812336-9fef-4388-9aab-a12c86cf81b6)
+![s6](https://github.com/user-attachments/assets/4de4c050-46bd-4920-aa04-076acdddd1c0)
+![s91](https://github.com/user-attachments/assets/a15c46fd-ee9e-4474-b46b-fc1a46c3cda3)
