@@ -8,6 +8,7 @@
 * nvim-notify,
 * Cmd Line,
 * fuzzy finder,
+* to-do,
 * file browse &
 * Colors(NvChad-colorizer)
 
